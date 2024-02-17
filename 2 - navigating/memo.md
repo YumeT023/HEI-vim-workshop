@@ -45,4 +45,4 @@
 - `/{what}`
 - `n`: Next matching search pattern
 
-<a href="../3 - Editing/">Navigation\*</a>
+<a href="../3 - Editing/memo.md">Editing</a>

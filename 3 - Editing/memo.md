@@ -33,4 +33,4 @@
 - `u`: Undo changes
 - `c-r`: Redo changes
 
-<a href="../4 - Visual mode/">Visual mode\*</a>
+<a href="../4 - Visual mode/memo.md">Visual mode</a>

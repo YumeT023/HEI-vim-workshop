@@ -7,3 +7,5 @@ vim has **3** modes:
 - **i**nsert: What you already know
 - **n**ormal
 - **v**isual
+
+<a href="./1 - get me outta here!/memo.md">Goo</a>

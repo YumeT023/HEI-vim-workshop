@@ -8,4 +8,4 @@
 - `:w`: Save file
 - `:wq`: Save and close file
 
-<a href="../2 - navigating/memo.md">Navigation\*</a>
+<a href="../2 - navigating/memo.md">Navigation</a>
