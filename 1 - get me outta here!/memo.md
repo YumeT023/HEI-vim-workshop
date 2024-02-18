@@ -3,9 +3,9 @@
   <h1>Get me outta here! 😬</h1>
 </div>
 
-- `:q`: Close file
-- `:q!`: Force close (ignores change to file)
-- `:w`: Save file
-- `:wq`: Save and close file
+- `:q`: Quit
+- `:q!`: Force quit (ignores change to file)
+- `:w`: Save file (write)
+- `:wq`: Save and close file (write and quit)
 
 <a href="../2 - navigating/memo.md">Navigation</a>
