@@ -6,15 +6,17 @@
 > Replace means delete then enter insert mode
 
 - `i`: Insert mode
+- `.`: Repeat previous motion
 
 ### Clipboard
 
 - `dd`: Delete line (cut)
-- `cc`: Replace line (cut)
+- `cc/S`: Replace line (cut)
 - `yy`: Yank line (copy)
 
 - `y{M}`: Yank resulting {M}
-- `d{M}`: Delete reslting {M}
+- `d{M}`: Delete resulting {M}
+- `c{M}`: Replace resulting {M}
 
 - `p/P`: Paste before/after
 
@@ -24,8 +26,6 @@
 - `A`: Append from end of line
 - `I`: Append from start of line
 - `D/C`: Delete/Replace remaining
-
-- `S`: Replace line
 
 - `r`: Replace one character
 - `R`: Enter replace mode
