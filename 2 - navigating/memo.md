@@ -15,8 +15,8 @@
 #### Word Navigation
 
 - Prefer using `w` / `b` instead of smashing "llll" and "hhhh"
-- `b` / `w`: Move to the previous / next word
-- `ge` / `e`: Move to the previous / next end of word
+- `b` / `w`: Move to the previous / next word or punctuation chars
+- `ge` / `e`: Move to the previous / next end of punctuation chars
 
 #### Repeating Moves
 
@@ -35,10 +35,18 @@
 - `G`: Last line
 - `:{number}`: Go to line `{number}`
 
+### Block navigation
+
+- `alt_gr-}`: Next empty line
+- `alt_gr-{`: Previous empty line
+- `%`: Go to matching braces [{()}]
+
 ### Character Navigation
 
 - `f{character}`: Move to the next `{character}`
 - `t{character}`: Move to just before the next `{character}`
+- `F{character}`: Move to the previous `{character}`
+- `T{character}`: Move to just before the previous `{character}`
 
 ### Search for pattern (text/regex)
 

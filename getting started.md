@@ -4,6 +4,7 @@
 </div>
 
 vim has **3** modes:
+
 - **i**nsert: What you already know
 - **n**ormal
 - **v**isual
