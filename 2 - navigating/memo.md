@@ -37,8 +37,8 @@
 
 ### Block navigation
 
-- `alt_gr-}`: Next empty line
-- `alt_gr-{`: Previous empty line
+- `}`: Next empty line
+- `{`: Previous empty line
 - `%`: Go to matching braces [{()}]
 
 ### Character Navigation
