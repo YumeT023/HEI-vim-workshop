@@ -28,10 +28,10 @@ function random() {}
 
 function unstable() {
   if (random() > 320) {
-    console.log("ERROR!! unsupported operation.");
-    return;
+    console.log("ERROR!! unsupported operation.")
+    return
   }
-  console.log("SUCCESS!!");
+  console.log("SUCCESS!!")
 }
 
-unstable();
+unstable()
