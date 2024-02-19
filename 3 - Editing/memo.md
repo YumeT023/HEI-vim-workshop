@@ -33,4 +33,11 @@
 - `u`: Undo changes
 - `c-r`: Redo changes
 
+### Misc
+
+- `~`: Toggle _UPPERCASE_ on selection
+- `c-a`: Increment number
+- `c-x`: Decrement number
+- `g c-{a or x}`: increment selected in an ordered way
+
 <a href="../4 - Visual mode/memo.md">Visual mode</a>
